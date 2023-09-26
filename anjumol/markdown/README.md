@@ -18,12 +18,29 @@ Alt-H2
 
 _hello world_
 
+Emphasis, aka italics, with *asterisks* or _underscores_.
 
-**WELCOME**
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-__thanks__
+Combined emphasis with **asterisks and _underscores_**.
 
-**_hello_**
+Strikethrough uses two tildes. 
 
-~~hai~~
+~~Scratch this.~~ss
 
+https://www.google.com
+
+https://www.google.com "Google's Homepage"
+
+../blob/master/LICENSE
+
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
