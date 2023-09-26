@@ -8,3 +8,22 @@
 #### H4
 ##### H5
 ###### H6
+
+Alt-H1
+======
+
+Alt-H2
+------
+*hai*
+
+_hello world_
+
+
+**WELCOME**
+
+__thanks__
+
+**_hello_**
+
+~~hai~~
+
