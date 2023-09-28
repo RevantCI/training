@@ -131,7 +131,7 @@ Underscores
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/lkIFF4maKMU/0.jpg)](http://www.youtube.com/watch?v=lkIFF4maKMU)
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
