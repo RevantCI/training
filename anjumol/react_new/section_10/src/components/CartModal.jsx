@@ -7,18 +7,17 @@ const CartModal = forwardRef(function Modal(
   { title, actions },
   ref
 ) {
-  const dialog = useRef();
-
+  const dialogRef = useRef();
   useImperativeHandle(ref, () => {
     return {
       open: () => {
-        dialog.current.showModal();
+        dialogRef.current.showModal();
       },
     };
   });
 
   return createPortal(
-    <dialog id="modal" ref={dialog}>
+    <dialog id="modal" ref={dialogRef}>
       <h2>{title}</h2>
       <Cart />
       <form method="dialog" id="modal-actions">
